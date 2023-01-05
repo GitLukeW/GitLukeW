@@ -1,10 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luke
+
 ============================================================================================================================
 
 Developer. Problem Solver. Fun-Haver
 ------------------------------------
 
-60% of the time my code works every time.
+I'm really good at TPS reports. 
 
 * 🚀  I'm currently working on [Advent of Code / Leet Code](http://adventofcode.com/)
 * 🧠  I'm learning Docker
@@ -29,6 +30,7 @@ Developer. Problem Solver. Fun-Haver
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/gitlukew" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
