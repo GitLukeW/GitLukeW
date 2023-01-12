@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luke
+I'm Luke
 ============================================================================================================================
 
 Developer. Problem Solver. Fun-Haver
 ------------------------------------
 
-I'm really good at TPS reports. 
+I'm on a life long quest to find Milton's stapler.  
 
 * 🚀  I'm currently working on [Advent of Code / Leet Code](http://adventofcode.com/)
 * 🧠  I'm learning Docker
