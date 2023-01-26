@@ -4,7 +4,6 @@ Developer. Problem Solver. Fun-Haver
 I'm on a life long quest to find Milton's stapler.  
 
 * 🚀  I'm currently working on [Advent of Code / Leet Code](http://adventofcode.com/)
-* 🧠  I'm learning Docker
 
 ### Skills
 
