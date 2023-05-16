@@ -3,7 +3,7 @@ Developer. Problem Solver. Fun-Haver
 
 I'm on a life long quest to find Milton's stapler.  
 
-* 🚀  I'm currently working on [Team Production System](https://github.com/TeamProductionSystem)
+* 🚀  I'm currently working on and maintaining [Team Production System](https://github.com/TeamProductionSystem)
 
 ### Skills
 
